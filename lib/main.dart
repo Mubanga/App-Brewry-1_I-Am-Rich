@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Image(
             image: NetworkImage(
-                'https://i.ytimg.com/vi/806qrlyqAoU/hqdefault.jpg'),
+                'https://www.picclickimg.com/d/l400/pict/183667264815_/Amazing-Spider-Man-14-J-Scott-Campbell-8-Variant.jpg'),
           ),
         ),
       ),
