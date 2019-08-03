@@ -17,8 +17,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.grey[350],
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://www.picclickimg.com/d/l400/pict/183667264815_/Amazing-Spider-Man-14-J-Scott-Campbell-8-Variant.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
