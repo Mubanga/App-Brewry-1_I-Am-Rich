@@ -15,6 +15,12 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
         ),
         backgroundColor: Colors.grey[350],
+        body: Center(
+          child: Image(
+            image: NetworkImage(
+                'https://i.ytimg.com/vi/806qrlyqAoU/hqdefault.jpg'),
+          ),
+        ),
       ),
 //      home: Center(
 //        child: Text("Hello World"),
